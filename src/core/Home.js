@@ -33,7 +33,7 @@ const Home = () => {
   return (
     <Layout
       title="Home Page"
-      description="Node React E-commerce App"
+      description="Advanced E-commerce App"
       className="container-fluid"
     >
       <Search />
