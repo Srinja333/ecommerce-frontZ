@@ -48,7 +48,7 @@ const Home = () => {
         ))}
       </div>
 
-      <h2 className="mb-4">Best Sellers</h2>
+      <h2 className="mb-4">Top Sellers</h2>
 
       {/* for best sell products and  give product to the card */}
       <div className="row">
